@@ -19,24 +19,18 @@ Este é um projeto simples que integra o ChatGPT com C#, permitindo que você fa
    git clone https://github.com/Nich27Oli/NiscoGPT.git
    ```
 
-2. Instale a dependência necessária:
-   Adicione o pacote `OpenAI` SDK (ou use `RestSharp` para chamadas HTTP simples):
-   ```bash
-   dotnet add package OpenAI --version <versão>
-   ```
-
-3. Configure sua chave de API:
+2. Configure sua chave de API:
    No código, adicione sua chave de API para a OpenAI:
    ```csharp
    string openAIKey = "sua-chave-api-aqui";
    ```
 
-4. Execute o projeto:
+3. Execute o projeto:
    ```bash
    dotnet run
    ```
 
-5. Exemplo de Uso:
+4. Exemplo de Uso:
    O programa solicitará uma pergunta no console. Basta digitar sua pergunta e pressionar Enter para receber uma resposta do ChatGPT.
 
 ## Exemplo
