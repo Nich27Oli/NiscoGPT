@@ -1,11 +1,4 @@
-# NiscoGPT
-Pequeno projeto integrando com o ChatGPT
-
-Aqui está uma versão mais simples e direta do README para o seu projeto de integração do ChatGPT com C# no console:
-
----
-
-# ChatGPT-C# Console Integration
+# NiscoGPT Console Integration
 
 Este é um projeto simples que integra o ChatGPT com C#, permitindo que você faça perguntas e receba respostas diretamente no console.
 
